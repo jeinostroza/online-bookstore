@@ -4,7 +4,7 @@ export class Book {
     name:string;
     description:string;
     unitPrice:number;
-    imageUrl:string;
+    imageurl:string;
     active:boolean;
     unitsInStock: number;
     createdOn: Date;
